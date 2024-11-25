@@ -1,2 +1,5 @@
 # Digit-Prediction-and-Analaysis-of-algorithms
- This project explores the performance of various machine learning algorithms, including KNN, Decision Trees, Random Forests, and SVM, for digit prediction. It analyzes the impact of test sizes and parameter tuning on accuracy and computational efficiency across different kernels.
+ 
+This project investigates the performance of various machine learning algorithms, focusing on their effectiveness in digit prediction tasks. The first part examines KNN, Decision Tree, and Random Forest algorithms, analyzing how test dataset size impacts their accuracy. By evaluating these models under varying conditions, the project provides insights into their performance trends and helps determine which algorithm is better suited for different dataset partitions.
+
+The second part delves into Support Vector Machine (SVM) algorithms, specifically comparing Linear, Gaussian, and Polynomial kernels. The analysis highlights how changes in parameters such as C (Regularization), gamma, and degree influence both accuracy and computational efficiency. This section also explores the trade-offs between training time and predictive performance, offering a comprehensive understanding of how parameter tuning impacts SVM models in digit classification
